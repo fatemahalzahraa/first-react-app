@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  color: black;
+  background-color: rgb(232, 245, 249);
+  font-family: cursive;
+}
+
+.Image img {
+  width: 150vh;
 }
 
 .App-logo {
